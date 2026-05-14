@@ -1,0 +1,366 @@
+# Blender 5.1.1 MTL File: 'trolleo.blend'
+# www.blender.org
+
+newmtl Aluminium_sand
+Ka 1.000000 1.000000 1.000000
+Ks 0.254545 0.254545 0.254545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Aluminium_sand_BaseColor.png
+map_Ns textures/Aluminium_sand_Roughness.png
+map_refl textures/Aluminium_sand_Metallic.png
+
+newmtl Aluminium_sand.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.254545 0.254545 0.254545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Aluminium_sand_BaseColor.png
+map_Ns textures/Aluminium_sand_Roughness.png
+map_refl textures/Aluminium_sand_Metallic.png
+
+newmtl Aluminium_sand.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.254545 0.254545 0.254545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Aluminium_sand_BaseColor.png
+map_Ns textures/Aluminium_sand_Roughness.png
+map_refl textures/Aluminium_sand_Metallic.png
+
+newmtl Black_tiles.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/piso.png
+
+newmtl Brushed_metal
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd textures/pumagua.png
+
+newmtl Concrete
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/escaleras.png
+
+newmtl Marble_tiles
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/plaza.png
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/rough_concrete_diff_4k.jpg
+map_Ns textures/rough_concrete_rough_4k.exr
+map_Bump -bm 1.000000 textures/rough_concrete_nor_gl_4k.exr
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/piedras1.png
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/tabiques.png
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/piedras3.png
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/piedras2.png
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/piedras5.png
+
+newmtl Material.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/piedras4.png
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/escritorio.png
+
+newmtl Procedural_pearl_red_painted_plastic
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/escritorio.png
+
+newmtl Rough_Brushed_Concrete
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/plaza.png
+
+newmtl Rough_Brushed_Concrete.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd textures/GWC Brushed Concrete_BaseColor.jpg
+map_d textures/GWC Brushed Concrete_Emissive.jpg
+map_Bump -bm 1.000000 textures/GWC Brushed Concrete_Normal.jpg
+
+newmtl Striped_Fabric_Black
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/StripedFabric_BasecolorDarkgrey.jpg
+map_Ns textures/StripedFabric_Roughness.jpg
+map_Bump -bm 1.000000 textures/StripedFabric_Normal.jpg
+
+newmtl Striped_Fabric_Black.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/StripedFabric_BasecolorDarkgrey.jpg
+map_Ns textures/StripedFabric_Roughness.jpg
+map_Bump -bm 1.000000 textures/StripedFabric_Normal.jpg
+
+newmtl White_plaster
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.400000
+d 1.000000
+illum 2
+map_Kd textures/white plaster_BaseColor.jpg
+map_Ns textures/white plaster_Roughness.jpg
+map_Bump -bm 1.000000 textures/white plaster_Normal.jpg
+
+newmtl Window
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.770000
+illum 6
+map_Kd textures/ventanal.png
+
+newmtl Wood_Floor_Light
+Ns 250.000000
+Ka 0.381818 0.381818 0.381818
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd textures/madera.png
+
+newmtl Yellow_Mustard
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/barrotes3.png
+
+newmtl Yellow_Mustard.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/barrotes2.png
+
+newmtl Yellow_Mustard.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/barrotes3.png
+
+newmtl Yellow_Mustard.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/barrotes3.png
+
+newmtl Yellow_Mustard.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/barrotes3.png
+
+newmtl Yellow_Mustard.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/barrotes1.png
