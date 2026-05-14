@@ -49,7 +49,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProyectoFinal.cpp">
+    <ClCompile Include="animacion.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
